@@ -1,9 +1,10 @@
-# Torrents
 # Electrum
-###################
+
 
 RSS
+
 If you would like to get new torrents of electrum automatically you can subscribe to the following RSS feed:
+
 https://arihanc.com/rss/Electrum.rss
 
 
