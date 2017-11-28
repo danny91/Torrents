@@ -1,0 +1,1 @@
+magnet:?xt=urn:btih:3bc60e12d5107d355a427853d5f6c6aed4357b07&dn=Electrum%203.0.1&tr=http%3a%2f%2ftracker.arihanc.com%3a6969%2fannounce&tr=http%3a%2f%2fipv6.tracker.arihanc.com%3a6969%2fannounce
